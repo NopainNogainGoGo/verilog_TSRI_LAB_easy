@@ -145,5 +145,3 @@ module LBP (
     end
 
 endmodule
-
-*/
